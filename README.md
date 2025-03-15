@@ -1,9 +1,9 @@
-# Projeto Banco de Dados Superstore
+# Projeto Data Warehouse Superstore
 
 ![schema](schema.png)
 
 # Objetivo
-Construir um banco de dados local do zero com os dados da Superstore retirados do Kaggle.
+Construir um Data Warehouse local do zero com os dados da Superstore retirados do Kaggle.
 
 # Etapas
 - Criar o Diagrama do banco com Lucid Chart.
